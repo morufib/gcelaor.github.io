@@ -3,7 +3,7 @@ layout:    post
 title:     "Chrome开发者工具"
 subtitle: "Chrome Developer Tool"
 date:       2016-10-19 14:21:35
-author:     "gcelaor"
+author:     "Gcelaor"
 header-img: "img/semantic.jpg"
 catalog: true
 tags:
