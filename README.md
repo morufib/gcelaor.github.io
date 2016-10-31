@@ -2,7 +2,11 @@
 
 ###[View Live Gcelaor Blog &rarr;](https://gcelaor.github.io)
 
-![](https://gcelaor.github.io/img/blog-tags.jpg)
+
+ ###Here is the blog screenshots show
+![](https://gcelaor.github.io/img/screen-home.jpg)
+
+
 
 
 
