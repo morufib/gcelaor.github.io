@@ -36,7 +36,7 @@ tags:
 2. 设计比较难精确定位和控制
 3. 老版本的浏览器兼容性不好
 
-### 1.5 Brower
+### 1.5 Browser
 
 Browser market（china）[statcounter](http://gs.statcounter.com/]) 
 
@@ -130,7 +130,7 @@ CSS3：
    - 手机端：Google Browas、Safari、QQ浏览器、UC浏览器、360浏览器
 4. 内容显示原则
    - 不管设备大小，内容可根据页面排版做部分修改，选择显示或隐藏
-5. 断点选择原则
+5. 断点选择原则（具体断点选择和设计师交流）
    - 0-480 小屏幕
    - 481-800 中屏幕
    - 801-1400 大屏幕
@@ -190,7 +190,7 @@ CSS3：
      >
      > root = true   最顶层的配置文件，之后再不会查找其他文件
      >
-     > [*] 以下规则应用于所有文件
+     > [*] 通配符：以下规则应用于所有文件
      > charset = utf-8   所有文件的编码格式为utf-8
      > indent_size = 4   代码缩进的空格数，可为tab
      > indent_style = space代码缩进的样式，为空格
