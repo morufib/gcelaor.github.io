@@ -1,14 +1,14 @@
 {
-    "name": "ReidHolmes-blog",
-    "title": "ReidHolmes Blog",
-    "author": "ReidHolmes name.reidholmes@gmail.com>",
-    "version": "1.7.0",
-    "homepage": "http://ReidHolmes.github.io",
+    "name": "Gcelaor Blog",
+    "title": "Gcelaor Blog",
+    "author": "Gcelaor gcelaor@gmail.com>",
+    "version": "2.0",
+    "homepage": "http://gcelaor.github.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/ReidHolmes/ReidHolmes.github.io"
+        "url": "https://github.com/gcelaor/gcelaor.github.io"
     },
-    "bugs": "https://github.com/ReidHolmes/ReidHolmes.github.io/issues",
+    "bugs": "https://github.com/gcelaor/gcelaor.github.io/issues",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",
